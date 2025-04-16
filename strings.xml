@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string-array name="destinations">
+        <item>Paris</item>
+        <item>Tokyo</item>
+        <item>New York</item>
+        <item>London</item>
+        <item>Rome</item>
+    </string-array>
+</resources>
